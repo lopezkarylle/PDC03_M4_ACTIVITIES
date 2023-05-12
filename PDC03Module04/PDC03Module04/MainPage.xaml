@@ -9,6 +9,9 @@
         </Frame>
         <Button Text="Activity 1" Clicked="OpenActivity01"></Button>
         <Button Text="Activity 2" Clicked="OpenActivity02"></Button>
+        <Button Text="Activity 3" Clicked="OpenActivity03"></Button>
+        <Button Text="Activity 4" Clicked="OpenActivity04"></Button>
+        <Button Text="Activity 5" Clicked="OpenActivity05"></Button>
     </StackLayout>
 
 </ContentPage>
